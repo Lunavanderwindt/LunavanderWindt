@@ -1,4 +1,4 @@
-# prj4-cv
+# Luna van der Windt
 
 A template to create a CV while learning HTML and CSS
 
