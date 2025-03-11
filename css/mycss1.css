@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.red {
+	color: #FF0004;	
+	
+	
+	
+}
+
+.green {
+	color: #69FF00;
+}
+
+.mybg{
+	background-image: url(../images/background.jpg);
+	background-repeat: repeat;
+}
