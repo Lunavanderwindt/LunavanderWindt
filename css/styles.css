@@ -6,17 +6,21 @@ body {
 	background-color: #EF9A9A;
 }
 
-.resume-header {
+.lunacolor-header {
     background-color: #A85858;
 	color: floralwhite
 }
 
-.resume-main {
+.lunacolor-main {
 	background-color: #FFEBEE;
 }
 
-.resume-aside {
+.lunacolor-aside {
 	background-color: #F5D9D9;
+}
+
+.biography-details li::before {
+	color: #B87D93;
 }
 
 .biography-details li::before, .skill-list li::before {
@@ -27,9 +31,7 @@ body {
 	margin-left: -1em;
 }
 
-.biography-details li::before {
-	color: #B87D93;
-}
+
 
 .biography-details li, .skill-list li {
 	padding-left: 1em;
@@ -43,3 +45,4 @@ body {
 }
 .w-150 {
 }
+
